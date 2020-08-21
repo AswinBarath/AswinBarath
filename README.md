@@ -2,8 +2,8 @@
 ## I'm Aswin Barath from India.<br>
 ### I'm a Budding Software Engineer looking forward to exploring the field to the core.<br>
 #### And a big fan of New Technologies with a great passion for AI. <br>
-I'm currently learing Web Development.<br>
-I'm looking to collaborate on small open source projects.
+#### I'm currently learing Web Development.<br>
+#### I'm looking to collaborate on small open source projects.
 
 <!--
 **AswinBarath/AswinBarath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
