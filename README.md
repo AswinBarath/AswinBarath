@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Aswin Barath from India.
+I'm currently learing Web Development.
+I'm looking to collaborate on small open source projects.
 
 <!--
 **AswinBarath/AswinBarath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
