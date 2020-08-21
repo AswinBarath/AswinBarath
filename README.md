@@ -1,8 +1,8 @@
-### Hi there 👋
-### I'm Aswin Barath from India.<br>
-I'm a Budding Software Engineer looking forward to exploring the field to the core.
-And a big fan of New Technologies with a great passion for AI. 
-I'm currently learing Web Development.
+# Hi there 👋
+## I'm Aswin Barath from India.<br>
+### I'm a Budding Software Engineer looking forward to exploring the field to the core.<br>
+#### And a big fan of New Technologies with a great passion for AI. <br>
+I'm currently learing Web Development.<br>
 I'm looking to collaborate on small open source projects.
 
 <!--
