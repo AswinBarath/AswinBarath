@@ -6,13 +6,16 @@
 
 ### Connect with me:
 
-[<img align="left" alt="AswinBarath2 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="_blank"/>][twitter]
-[<img align="left" alt="aswin-barath | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"/>][linkedin]
-[<img align="left" alt="ashwin_26.4 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank"/>][instagram]
+[<img align="left" alt="AswinBarath2 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="aswin-barath | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ashwin_26.4 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 ### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
 
 
