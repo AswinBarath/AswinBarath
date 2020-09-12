@@ -16,6 +16,9 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AswinBarath)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [twitter]: https://twitter.com/AswinBarath2
