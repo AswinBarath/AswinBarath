@@ -11,7 +11,7 @@
 [<img align="left" alt="ashwin_26.4 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
+---
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Become a Job Ready Programmer](https://dev.to/aswin2001barath/become-a-job-ready-programmer-27kb)
