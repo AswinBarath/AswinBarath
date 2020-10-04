@@ -16,6 +16,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Goals - From Big Techs, NGOs, and Startups](https://dev.to/aswin2001barath/goals-from-big-techs-ngos-and-startups-22dg)
 - [Become a Job Ready Programmer](https://dev.to/aswin2001barath/become-a-job-ready-programmer-27kb)
 - [Become A Data Analyst](https://dev.to/aswin2001barath/become-a-data-analyst-3gm4)
 - [Building Blocks of any Programming Language](https://dev.to/aswin2001barath/building-blocks-of-any-programming-language-585p)
