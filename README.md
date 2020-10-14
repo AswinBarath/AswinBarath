@@ -1,15 +1,15 @@
 ### Hi there, I'm Aswin Barath from India 👋
 
 ## I'm a Budding Software Engineer | Machine Learning Enthusiast | Front-end Developer
-- 🌱 I'm currently learning python3
-- 🌱 I'm currently learning full stack development: PERN & MERN
+- 🌱 I'm currently learning Python3 programming language
+- 🌱 I'm currently learning Full stack development: PERN & MERN
 - 🔭 I’m currently working on small open source projects
 - 👯 I’m looking to collaborate on web development projects
 - 💬 Ask me about Programming, Data Structures, Web development, Machine Learning
 - 📫 How to reach me:
-   [<img align="left" alt="AswinBarath2 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-   [<img align="left" alt="aswin-barath | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-   [<img align="left" alt="ashwin_26.4 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AswinBarath2 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="aswin-barath | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ashwin_26.4 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
