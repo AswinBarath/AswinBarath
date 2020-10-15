@@ -1,6 +1,6 @@
 ### Hi there, I'm Aswin Barath from India 👋
 
-## I'm a Budding Software Engineer | Machine Learning Enthusiast | Front-end Developer
+## I'm a Front-end Developer | Budding Software Engineer | Machine Learning Enthusiast
 - 🌱 I'm currently learning Python3 programming language
 - 🌱 I'm currently learning Full stack development: PERN & MERN
 - 🔭 I’m currently working on small open source projects
