@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on web development projects
 - 💬 Ask me about Programming, Data Structures, Web development, Machine Learning
 - 📫 How to reach me:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 [<img align="left" alt="AswinBarath2 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="aswin-barath | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ashwin_26.4 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
