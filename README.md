@@ -1,7 +1,10 @@
 <h1 align="center"> Hi there, I'm Aswin Barath 👋</h1>
 
 <h2 align="center"> I'm a Front-end Developer | Budding Software Engineer</h2>
+
 <h3 align="center"> Machine Learning Enthusiast</h3>
+
+
 - 🌱 I'm currently learning Python3 ecosystem
 - 🔭 I’m currently working on small open source projects
 - 🌱 I'm currently learning Full stack development: PERN
