@@ -27,8 +27,11 @@
 
 ---
 
-[![ashwin's github stats](https://github-readme-stats.vercel.app/api?username=AswinBarath&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinBarath)](https://github.com/anuraghazra/github-readme-stats)
+[![ashwin's github stats](https://github-readme-stats.vercel.app/api?username=AswinBarath&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinBarath&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/AswinBarath2
 [instagram]: https://instagram.com/ashwin_26.4
