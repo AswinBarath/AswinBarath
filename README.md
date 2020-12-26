@@ -3,7 +3,7 @@
 <h2 align="center"> I'm a Front-end Developer | Budding Software Engineer</h2>
 
 
-- 🌱 I'm currently learning Python3 ecosystem
+- ⚡ I'm currently building Python projects on Scripting
 - 🔭 I’m currently working on small open source projects
 - 🌱 I'm currently learning Full stack development: PERN
 - 👯 I’m looking to collaborate on web development projects
