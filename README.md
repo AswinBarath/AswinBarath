@@ -20,11 +20,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hello, world!](https://dev.to/aswin2001barath/hello-world-19hi)
 - [Here Are The Goals  of Big Tech, NGOs, and Startups](https://dev.to/aswin2001barath/goals-from-big-techs-ngos-and-startups-22dg)
 - [Become a Job Ready Programmer](https://dev.to/aswin2001barath/become-a-job-ready-programmer-27kb)
 - [Become A Data Analyst](https://dev.to/aswin2001barath/become-a-data-analyst-3gm4)
 - [Building Blocks of any Programming Language](https://dev.to/aswin2001barath/building-blocks-of-any-programming-language-585p)
-- [Python Programming: A Beginner’s Guide](https://dev.to/aswin2001barath/python-programming-a-beginner-s-guide-k8n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
