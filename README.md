@@ -20,11 +20,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting input in python](https://dev.to/aswin2001barath/getting-input-in-python-2ehh)
 - [Variables in Python](https://dev.to/aswin2001barath/variables-in-python-12d3)
 - [Data types in python](https://dev.to/aswin2001barath/data-types-in-python-14ol)
 - [Hello, world!](https://dev.to/aswin2001barath/hello-world-19hi)
 - [Here Are The Goals  of Big Tech, NGOs, and Startups](https://dev.to/aswin2001barath/goals-from-big-techs-ngos-and-startups-22dg)
-- [Become a Job Ready Programmer](https://dev.to/aswin2001barath/become-a-job-ready-programmer-27kb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
