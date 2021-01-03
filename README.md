@@ -20,11 +20,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Arithmetic operators in python](https://dev.to/aswin2001barath/arithmetic-operators-in-python-3lgc)
 - [print function in python](https://dev.to/aswin2001barath/print-function-in-python-4a4h)
 - [Getting input in python](https://dev.to/aswin2001barath/getting-input-in-python-2ehh)
 - [Variables in Python](https://dev.to/aswin2001barath/variables-in-python-12d3)
 - [Data types in python](https://dev.to/aswin2001barath/data-types-in-python-14ol)
-- [Hello, world!](https://dev.to/aswin2001barath/hello-world-19hi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
