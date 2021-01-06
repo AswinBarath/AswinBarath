@@ -20,11 +20,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Assignment Operators in python](https://dev.to/aswin2001barath/assignment-operators-in-python-2a2a)
 - [Comparison Operators in python](https://dev.to/aswin2001barath/comparison-operators-in-python-282l)
 - [Bitwise Operators in python](https://dev.to/aswin2001barath/bitwise-operators-in-python-4pii)
 - [Arithmetic operators in python](https://dev.to/aswin2001barath/arithmetic-operators-in-python-3lgc)
 - [print function in python](https://dev.to/aswin2001barath/print-function-in-python-4a4h)
-- [Getting input in python](https://dev.to/aswin2001barath/getting-input-in-python-2ehh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
