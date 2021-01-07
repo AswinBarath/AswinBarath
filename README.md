@@ -1,12 +1,12 @@
 <h1 align="center"> Hi there, I'm Aswin Barath 👋</h1>
 
-<h2 align="center"> I'm a Front-end Developer | Budding Software Engineer</h2>
+<h2 align="center"> I'm a Front-end Developer && Budding Software Engineer</h2>
 
 
-- ⚡ I'm currently building Python projects on Scripting
-- 🔭 I’m currently working on small open source projects
-- 🌱 I'm currently learning Full stack development: PERN
-- 👯 I’m looking to collaborate on web development projects
+- ⚡ I'm building Python projects on Scripting
+- 🔭 I’m working on [python blog series](https://dev.to/aswin2001barath/series/10416)
+- 🌱 I'm currently learning JavaScript
+- 👯 I’m looking forward to collaborate with web development projects
 - 💬 Ask me about Programming, Data Structures, Web development, Machine Learning
 - 📫 How to reach me:
 
