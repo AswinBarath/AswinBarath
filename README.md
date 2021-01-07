@@ -3,9 +3,12 @@
 <h2 align="center"> I'm a Front-end Developer && Budding Software Engineer</h2>
 
 
-- ⚡ I'm building Python projects on Scripting
+- 🌱 I'm currently learning
+    - JavaScript ES5 & ES6 concepts
+    - Python library: Beautiful Soup
+    - Problems on Arrays in C++
+- ⚡ I'm building Python projects on Scripting, Web scraping, Web development
 - 🔭 I’m working on [python blog series](https://dev.to/aswin2001barath/series/10416)
-- 🌱 I'm currently learning JavaScript
 - 👯 I’m looking forward to collaborate with web development projects
 - 💬 Ask me about Programming, Data Structures, Web development, Machine Learning
 - 📫 How to reach me:
