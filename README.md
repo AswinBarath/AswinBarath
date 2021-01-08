@@ -4,18 +4,30 @@
 
 
 - 🌱 I'm currently learning
-    - JavaScript ES5 & ES6 concepts
-    - Python library: Beautiful Soup
-    - Problems on Arrays in C++
+    - ✨ JavaScript ES5 & ES6 concepts
+    - ✨ Python library: Beautiful Soup
+    - ✨ Problems on Arrays in C++
 - ⚡ I'm building Python projects on Scripting, Web scraping, Web development
 - 🔭 I’m working on [python blog series](https://dev.to/aswin2001barath/series/10416)
 - 👯 I’m looking forward to collaborate with web development projects
 - 💬 Ask me about Programming, Data Structures, Web development, Machine Learning
 - 📫 How to reach me:
 
-[<img align="left" alt="AswinBarath2 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="aswin-barath | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ashwin_26.4 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://www.linkedin.com/in/aswim-barath/">
+  <img align="left" alt="ashwin's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
+</a>
+
+<a href="https://twitter.com/AswinBarath2">
+  <img align="left" alt="ashwin's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
+</a>
+
+<a href="mailto:aswin2001barath@gmail.com">
+  <img align="left" alt="ashwin's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
+</a>
+
+<a href="https://instagram.com/ashwin_26.4">
+  <img align="left" alt="ashwin's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>
+</a>
 
 <br />
 
@@ -38,11 +50,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinBarath&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[twitter]: https://twitter.com/AswinBarath2
-[instagram]: https://instagram.com/ashwin_26.4
-[linkedin]: https://linkedin.com/in/aswin-barath
-
- 
 <!--
 **AswinBarath/AswinBarath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
