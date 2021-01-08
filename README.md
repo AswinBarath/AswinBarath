@@ -13,6 +13,10 @@
 - 💬 Ask me about Programming, Data Structures, Web development, Machine Learning
 - 📫 How to reach me:
 
+<a href="mailto:aswin2001barath@gmail.com">
+  <img align="left" alt="ashwin's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
+</a>
+
 <a href="https://www.linkedin.com/in/aswim-barath/">
   <img align="left" alt="ashwin's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
 </a>
@@ -21,17 +25,17 @@
   <img align="left" alt="ashwin's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
 </a>
 
-<a href="mailto:aswin2001barath@gmail.com">
-  <img align="left" alt="ashwin's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
-</a>
-
 <a href="https://instagram.com/ashwin_26.4">
-  <img align="left" alt="ashwin's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>
+  <img align="left" alt="ashwin's Instagram" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>
 </a>
 
-<br />
+<a href="https://www.facebook.com/profile.php?id=100011683902531">
+  <img align="left" alt="ashwin's Facebook" src="https://img.icons8.com/bubbles/50/000000/facebook.png"/>
+</a>
 
----
+
+<br>
+<br>
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
