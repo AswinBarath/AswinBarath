@@ -5,7 +5,8 @@
 
 - 🌱 I'm currently learning
     - ✨ JavaScript ES5 & ES6 concepts
-    - ✨ Python library: Beautiful Soup
+    - ✨ Python web scraping library: Beautiful Soup
+    - ✨ Python web framework: Beautiful Soup
     - ✨ Problems on Arrays in C++
 - ⚡ I'm building Python projects on Scripting, Web scraping, Web development
 - 🔭 I’m working on [python blog series](https://dev.to/aswin2001barath/series/10416)
