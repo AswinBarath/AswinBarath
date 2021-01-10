@@ -44,11 +44,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Conditional statements in python](https://dev.to/aswin2001barath/conditional-statements-in-python-4g18)
 - [Membership Operators in python](https://dev.to/aswin2001barath/membership-operators-in-python-f3d)
 - [Identity Operators in python](https://dev.to/aswin2001barath/identity-operators-in-python-3c70)
 - [Logical Operators in python](https://dev.to/aswin2001barath/logical-operators-in-python-319c)
 - [Assignment Operators in python](https://dev.to/aswin2001barath/assignment-operators-in-python-2a2a)
-- [Comparison Operators in python](https://dev.to/aswin2001barath/comparison-operators-in-python-282l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
