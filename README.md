@@ -53,7 +53,8 @@
 
 ---
 
-[![ashwin's github stats](https://github-readme-stats.vercel.app/api?username=AswinBarath&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+## Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=AswinBarath&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -72,4 +73,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Readme stats
+[![ashwin's github stats](https://github-readme-stats.vercel.app/api?username=AswinBarath&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 -->
