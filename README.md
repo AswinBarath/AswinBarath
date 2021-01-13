@@ -53,7 +53,7 @@
 
 ---
 
-[![ashwin's github stats](https://github-readme-stats.vercel.app/api?username=AswinBarath&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![ashwin's github stats](https://github-readme-stats.vercel.app/api?username=AswinBarath&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
