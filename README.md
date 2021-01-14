@@ -38,6 +38,9 @@
   <img align="left" alt="ashwin's Facebook" src="https://img.icons8.com/bubbles/50/000000/facebook.png"/>
 </a>
 
+<a href="https://dev.to/aswin2001barath">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Aswin Barath's DEV Community Profile" height="30" width="30">
+</a>
 
 <br>
 <br>
