@@ -46,11 +46,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [pass statement in python](https://dev.to/aswin2001barath/pass-statement-in-python-49lh)
 - [Else Clauses on Loops](https://dev.to/aswin2001barath/else-clauses-on-loops-54je)
 - [Basic jump statements in python](https://dev.to/aswin2001barath/break-and-continue-statements-in-python-2bka)
 - [Loops in python](https://dev.to/aswin2001barath/loops-in-python-24ah)
 - [Conditional statements in python](https://dev.to/aswin2001barath/conditional-statements-in-python-4g18)
-- [Membership Operators in python](https://dev.to/aswin2001barath/membership-operators-in-python-f3d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
