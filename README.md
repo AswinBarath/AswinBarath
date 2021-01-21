@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Aswin Barath 👋</h1>
 
-<h2 align="center"> 💻Python Developer    ✍Technical blogger   🖥️Web Developer</h2>
+<h2 align="center"> 🐍💻Python Developer    ✍📕Technical blogger   🖥️📲Web Developer</h2>
 
 <h2 align="center"> 👨‍🎓Budding Software Engineer</h2>
 
