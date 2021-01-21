@@ -4,11 +4,8 @@
 
 
 - 🌱 I'm currently learning
-    - ✨ Python web framework: Flask
-    - ✨ Python web scraping library: Beautiful Soup
     - ✨ JavaScript ES5 & ES6 concepts
-    - ✨ Problems on Arrays in C++
-- ⚡ I'm building Python projects on Scripting, Web scraping, Web development
+- ⚡ I'm building Python projects on Scripting, Web scraping, Web development, Automation and Machine Learning/Data Science
 - 🔭 I’m working on [python blog series](https://dev.to/aswin2001barath/series/10416)
 - 👯 I’m looking forward to collaborate with web development projects
 - 💬 Ask me about
