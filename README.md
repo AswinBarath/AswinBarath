@@ -1,8 +1,6 @@
 <h1 align="center"> Hi there, I'm Aswin Barath 👋</h1>
 
-<h2 align="center"> Python Developer | Technical blogger</h2>
-
-<h2 align="center"> Web Developer | Budding Software Engineer</h2>
+<h2 align="center"> 💻Python Developer    ✍Technical blogger   🖥️Web Developer   👨‍🎓Budding Software Engineer</h2>
 
 - 🌱 I'm currently learning
     - ✨ JavaScript ES5 & ES6 concepts
