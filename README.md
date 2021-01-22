@@ -54,11 +54,15 @@
 ---
 
 ## Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=AswinBarath&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AswinBarath&column=3&margin-w=15&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinBarath&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinBarath&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 <!--
 **AswinBarath/AswinBarath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
