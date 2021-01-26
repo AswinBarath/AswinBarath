@@ -44,11 +44,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Arguments and parameters in functions](https://dev.to/aswin2001barath/comprehension-in-python-383l)
 - [the return statement in functions](https://dev.to/aswin2001barath/functional-programming-in-python-23ff)
 - [functions in python](https://dev.to/aswin2001barath/functions-in-python-3i4h)
 - [pass statement in python](https://dev.to/aswin2001barath/pass-statement-in-python-49lh)
 - [Else Clauses on Loops](https://dev.to/aswin2001barath/else-clauses-on-loops-54je)
-- [Basic jump statements in python](https://dev.to/aswin2001barath/break-and-continue-statements-in-python-2bka)
 <!-- BLOG-POST-LIST:END -->
 
 ---
