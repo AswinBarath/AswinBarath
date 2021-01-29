@@ -4,16 +4,19 @@
 
 <h2 align="center"> 👨‍🎓Budding Software Engineer</h2>
 
-- 🌱 I'm currently learning
-    - ✨ JavaScript ES5 & ES6 concepts
-- ⚡ I'm building Python projects on Scripting, Web scraping, Web development, Automation and Machine Learning/Data Science
 - 🔭 I’m working on [python blog series](https://dev.to/aswin2001barath/series/10416)
-- 👯 I’m looking forward to collaborate with web development projects
+- 🌱 I'm currently learning
+    - ✨ Advanced JavaScript concepts
+- ⚡ I'm building Python projects on
+    - ✨ Scripting, Web scraping,
+    - ✨ Web development, Automation
+    - ✨ Machine Learning/Data Science
 - 💬 Ask me about
     - Programming in Python, JavaScript, Java, C/C++
     - Data Structures and Algorithms
     - Front-end development
     - Machine Learning 
+- 👯 I’m looking forward to collaborate with web development projects
 - 📫 How to reach me:
 
 <a href="mailto:aswin2001barath@gmail.com">
