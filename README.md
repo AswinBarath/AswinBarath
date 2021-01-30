@@ -54,6 +54,7 @@
 - [the return statement in functions](https://dev.to/aswin2001barath/functional-programming-in-python-23ff)
 <!-- BLOG-POST-LIST:END -->
 
+
 ---
 
 ## Stats
@@ -62,15 +63,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinBarath&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
-<summary>Click to view more stats!</summary>
-<!--START_SECTION:waka-->
-```text
-Week: 22 January, 2021 - 29 January, 2021
+  <summary>Click to view more stats!</summary>
+    <!--START_SECTION:waka-->
 
-JavaScript   3 hrs 28 mins   ██████████████████░░░░░░░   71.76 % 
-Markdown     49 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.84 % 
-HTML         33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-```
+
 <!--END_SECTION:waka-->
 </details>
 
@@ -78,20 +74,3 @@ HTML         33 mins         ███░░░░░░░░░░░░░░
 
 
 
-<!--
-**AswinBarath/AswinBarath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-Readme stats
-[![ashwin's github stats](https://github-readme-stats.vercel.app/api?username=AswinBarath&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
--->
