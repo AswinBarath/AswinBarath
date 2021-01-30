@@ -14,3 +14,11 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          COMMIT_MESSAGE: Updated the Readme with new Metrics
+          SHOW_LINES_OF_CODE: true
+          SHOW_PROFILE_VIEWS: true
+          SHOW_COMMIT: true
+          SHOW_DAYS_OF_WEEK: true
+          SHOW_LANGUAGE: true
+          SHOW_PROJECTS: false
+          SHOW_LOC_CHART: false
