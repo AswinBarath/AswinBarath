@@ -64,7 +64,13 @@
 <details>
 <summary>Click to view more stats!</summary>
 <!--START_SECTION:waka-->
+```text
+Week: 22 January, 2021 - 29 January, 2021
 
+JavaScript   3 hrs 28 mins   ██████████████████░░░░░░░   71.76 % 
+Markdown     49 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.84 % 
+HTML         33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+```
 <!--END_SECTION:waka-->
 </details>
 
