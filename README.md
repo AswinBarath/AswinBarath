@@ -1,12 +1,13 @@
 <h1 align="center"> Hi there, I'm Aswin Barath 👋</h1>
 
-<h2 align="center"> 🐍💻Python Developer    ✍📕Technical blogger   🖥️📲Web Developer</h2>
+<h2 align="center"> 🐍💻Python Developer    ✍📕Technical blogger</h2>
 
-<h2 align="center"> 👨‍🎓Budding Software Engineer</h2>
+<h2 align="center"> 🖥️📲Web Developer       👨‍🎓Budding Software Engineer</h2>
 
 - 🔭 I’m working on [python blog series](https://dev.to/aswin2001barath/series/10416)
 - 🌱 I'm currently learning
     - ✨ Advanced JavaScript concepts
+    - ✨ React.js library
 - ⚡ I'm building Python projects on
     - ✨ Scripting, Web scraping,
     - ✨ Web development, Automation
