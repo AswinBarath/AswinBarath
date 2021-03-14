@@ -1,10 +1,7 @@
 <h1 align="center"> Hi there, I'm Aswin Barath 👋</h1>
 
 
-<h3> 🖥️📲Web Developer  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🐍💻Python Developer </h3>
-
-
-<h3> 👨‍🎓Budding Software Engineer  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ✍📕Technical blogger </h3>
+<h3> 🖥️📲Web Developer  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🐍💻Python Developer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👨‍🎓Budding Software Engineer  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ✍📕Technical blogger </h3>
 
 
 - 🌱 I'm currently learning
