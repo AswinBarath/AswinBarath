@@ -6,7 +6,7 @@
 
 
 
-<h3> 🖥️📲Web Developer  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🐍💻Python Developer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ✍📕Technical blogger </h3>
+<h3 align="center"> 🖥️📲Web Developer  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🐍💻Python Developer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ✍📕Technical blogger </h3>
 
 
 
