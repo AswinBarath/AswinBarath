@@ -1,23 +1,32 @@
 <h1 align="center"> Hi there, I'm Aswin Barath 👋</h1>
 
-<h2 align="center"> 🐍💻Python Developer    ✍📕Technical blogger</h2>
+<h3 align="center"> 🖥️📲Web Developer </h3>
 
-<h2 align="center"> 🖥️📲Web Developer       👨‍🎓Budding Software Engineer</h2>
+<h3 align="center"> 👨‍🎓Budding Software Engineer </h3>
 
-- 🔭 I’m working on [python blog series](https://dev.to/aswin2001barath/series/10416)
+<h3 align="center"> 🐍💻Python Developer </h3>
+
+<h3 align="center"> ✍📕Technical blogger </h3>
+
 - 🌱 I'm currently learning
-    - ✨ Advanced JavaScript concepts
-    - ✨ React.js library
-- ⚡ I'm building Python projects on
-    - ✨ Scripting, Web scraping,
-    - ✨ Web development, Automation
-    - ✨ Machine Learning/Data Science
+    - ✨ Front-end Development libraries
+    - ✨ APIs and Microservices
+- ⚡ I'm building 
+    - Full-stack JavaScript projects using
+      - ✨ React.js, Redux.js
+      - ✨ Node.js, Express.js
+      - ✨ PostgreSQL
+    - Python projects on
+      - ✨ Scripting, Web scraping,
+      - ✨ Web development, Automation
+      - ✨ Machine Learning/Data Science
+- 🔭 I’m working on [python blog series](https://dev.to/aswin2001barath/series/10416)
 - 💬 Ask me about
     - Programming in Python, JavaScript, Java, C/C++
+    - Web development
     - Data Structures and Algorithms
-    - Front-end development
     - Machine Learning 
-- 👯 I’m looking forward to collaborate with web development projects
+- 👯 I’m looking forward to collaborate with Full-stack projects
 - 📫 How to reach me:
 
 <a href="mailto:aswin2001barath@gmail.com">
