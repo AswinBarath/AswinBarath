@@ -11,8 +11,9 @@
 
 
 - 🌱 I'm currently learning
-    - ✨ Front-end Development libraries
-    - ✨ APIs and Microservices
+    - ✨ TypeScript
+    - ✨ Nest.js
+    - ✨ GraphQL
 - ⚡ I'm building 
     - Full-stack JavaScript projects using
       - ✨ React.js, Redux.js
