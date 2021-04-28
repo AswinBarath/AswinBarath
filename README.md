@@ -80,17 +80,17 @@
     <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-371302%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-379704%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 528 Contributions in the Year 2021
+> 🏆 530 Contributions in the Year 2021
  > 
-> 📦 48.3 kB Used in Github's Storage 
+> 📦 48.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 46 Public Repositories 
+> 📜 47 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
@@ -141,11 +141,11 @@ Windows                  13 hrs 36 mins      ███████████�
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     12 repos            ███████░░░░░░░░░░░░░░░░░░   30.77% 
-JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.64% 
-Python                   8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.51% 
-Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.26% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.13%
+HTML                     12 repos            ███████░░░░░░░░░░░░░░░░░░   30.0% 
+JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Python                   8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.5%
 
 ```
 
