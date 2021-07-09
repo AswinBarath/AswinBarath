@@ -70,10 +70,10 @@
 ---
 
 ## Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=AswinBarath&column=3&margin-w=15&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AswinBarath&title=Commit,Issues,PullRequest,Repositories,MultiLanguage&margin-w=15&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinBarath&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AswinBarath&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinBarath&layout=compact&card_width=25&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AswinBarath&layout=compact&card_width=25)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary>Click to view more stats!</summary>
