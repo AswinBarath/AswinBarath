@@ -11,9 +11,8 @@
 
 
 - 🌱 I'm currently learning
-    - ✨ TypeScript
-    - ✨ Nest.js
     - ✨ GraphQL
+    - ✨ Gatsby.js
 - ⚡ I'm building 
     - Full-stack JavaScript projects using
       - ✨ React.js, Redux.js
@@ -25,7 +24,7 @@
       - ✨ Machine Learning/Data Science
 - 🔭 I’m working on [python blog series](https://dev.to/aswin2001barath/series/10416)
 - 💬 Ask me about
-    - Programming in Python, JavaScript, Java, C/C++
+    - Programming in Python, JavaScript, TypeScript, Java, C/C++
     - Web development
     - Data Structures and Algorithms
     - Machine Learning 
@@ -73,7 +72,8 @@
 ## Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=AswinBarath&column=3&margin-w=15&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinBarath&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinBarath&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AswinBarath&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary>Click to view more stats!</summary>
