@@ -43,7 +43,7 @@
   <img align="left" alt="ashwin's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
 </a>
 
-<a href="https://instagram.com/ashwin_26.4">
+<a href="https://www.instagram.com/aswin_barath_/">
   <img align="left" alt="ashwin's Instagram" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>
 </a>
 
