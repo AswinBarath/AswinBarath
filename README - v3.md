@@ -106,7 +106,7 @@
 &nbsp;
 <a href="https://stackoverflow.com/users/13064312/aswin-barath?tab=profile" target="_blank">![Stack Overflow profile](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
 &nbsp;
-<a href="https://twitter.com/AswinBarath2" target="_blank">![Twitter profile](ttps://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+<a href="https://twitter.com/AswinBarath2" target="_blank">![Twitter profile](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
 &nbsp;
 <a href="https://www.instagram.com/aswin_barath_/" target="_blank">![Instagram profile](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 &nbsp;
