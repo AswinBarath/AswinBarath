@@ -127,18 +127,11 @@
   <img align="left" alt="ashwin's Facebook" src="https://img.icons8.com/bubbles/50/000000/facebook.png"/>
 </a>
 
-<a href="https://stackoverflow.com/users/13064312/aswin-barath?tab=profile">
-	![Stack Overflow profile](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-</a>
+<a href="https://stackoverflow.com/users/13064312/aswin-barath?tab=profile">![Stack Overflow profile](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
 
-<a href="https://dev.to/aswin2001barath">
-	![Dev Profile](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
-</a>
+<a href="https://dev.to/aswin2001barath">![Dev Profile](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
 
-
-<a href="https://medium.com/@aswin2001barath">
-	![Medium Profile](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-</a>
+<a href="https://medium.com/@aswin2001barath">![Medium Profile](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 
 <br>
 
