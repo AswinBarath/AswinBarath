@@ -1,9 +1,12 @@
-# 👨‍💻 About Me
-- 👨‍💻 I'm an aspiring Software Engineer specializing in web development. 
-- 🚀 I'm proficient at diverse technical roles such as
-## Web developer (full-stack)
+# About Me
 
-### Libraries/Frameworks:
+## 👨‍💻 I'm an aspiring Software Engineer specializing in web development. 
+
+## 🚀 I'm proficient at diverse technical roles such as
+
+### Web developer (full-stack)
+
+#### Libraries/Frameworks:
 
 ![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 &nbsp;
@@ -29,7 +32,7 @@
 &nbsp;
 
 
-### Databases:
+#### Databases:
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 &nbsp;
@@ -41,7 +44,7 @@
 &nbsp;
 
 
-### Platforms:
+#### Platforms:
 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 &nbsp;
@@ -54,7 +57,7 @@
 
 
 
-- ⚡ I'm a polyglot programmer in diverse languages such as 
+## ⚡ I'm a polyglot programmer in diverse languages such as 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 &nbsp;
@@ -72,13 +75,13 @@
 
 
 
-- 🌱 I'm currently learning
+## 🌱 I'm currently learning
     - ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
     - ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
 
-- ✍ I'm a Technical blogger who has received more than 10,000+ reads from various platforms like 
+## ✍ I'm a Technical blogger who has received more than 10,000+ reads from various platforms like 
 
 
 <a href="https://dev.to/aswin2001barath" target="_blank">![Dev Profile](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
@@ -95,7 +98,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-- 📫 Reach out to me:
+### 📫 Reach out to me:
 
 <a href="mailto:aswin2001barath@gmail.com" target="_blank">
   <img align="left" alt="ashwin's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
@@ -132,7 +135,6 @@
 <details>
   <summary>Click to view more stats!</summary>
     <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-516972%20lines%20of%20code-blue)
 
