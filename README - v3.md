@@ -74,6 +74,9 @@
 
 ## 🌱 Currently learning
 
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+&nbsp;
+&nbsp;
 ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
 &nbsp;
 &nbsp;
@@ -99,7 +102,7 @@
 
 <br />
 
-### 📫 Reach out to me:
+## 📫 Reach out to me:
 
 <a href="mailto:aswin2001barath@gmail.com" target="_blank">![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 &nbsp;
