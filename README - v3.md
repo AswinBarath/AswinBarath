@@ -1,8 +1,8 @@
 # About Me
 
-## 👨‍💻 I'm an aspiring Software Engineer specializing in web development. 
+## 👨‍💻 I'm an Aspiring Software Engineer
 
-## 🚀 I'm proficient at diverse technical roles such as
+## 🚀 Proficient at diverse technical roles
 
 ### Web developer (full-stack)
 
@@ -40,8 +40,6 @@
 &nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 &nbsp;
-![]()
-&nbsp;
 
 
 #### Platforms:
@@ -55,7 +53,7 @@
 ![Google cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 &nbsp;
 
-
+<br />
 
 ## ⚡ I'm a polyglot programmer in diverse languages such as 
 
@@ -72,20 +70,22 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 &nbsp;
 
+<br />
+
+## 🌱 Currently learning
+
+![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
 
 
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-## 🌱 I'm currently learning
-    - ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
-    - ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+<br />
 
-
-
-## ✍ I'm a Technical blogger who has received more than 10,000+ reads from various platforms like 
-
+## ✍ Technical blogger with 10,000+ reads from platforms like 
 
 <a href="https://dev.to/aswin2001barath" target="_blank">![Dev Profile](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
-
+&nbsp;
+&nbsp;
 <a href="https://medium.com/@aswin2001barath" target="_blank">![Medium Profile](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 
 ### 📕 Latest Blog Posts
