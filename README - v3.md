@@ -75,13 +75,13 @@
 ## 🌱 Currently learning
 
 ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
-
-
+&nbsp;
+&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 <br />
 
-## ✍ Technical blogger with 10,000+ reads from platforms like 
+## ✍ Technical blogger with 10,000+ reads
 
 <a href="https://dev.to/aswin2001barath" target="_blank">![Dev Profile](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
 &nbsp;
@@ -100,28 +100,19 @@
 
 ### 📫 Reach out to me:
 
-<a href="mailto:aswin2001barath@gmail.com" target="_blank">
-  <img align="left" alt="ashwin's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
-</a>
-
-<a href="https://www.linkedin.com/in/aswin-barath/" target="_blank">
-  <img align="left" alt="ashwin's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
-</a>
-
-<a href="https://twitter.com/AswinBarath2" target="_blank">
-  <img align="left" alt="ashwin's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
-</a>
-
-<a href="https://www.instagram.com/aswin_barath_/" target="_blank">
-  <img align="left" alt="ashwin's Instagram" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=100011683902531" target="_blank">
-  <img align="left" alt="ashwin's Facebook" src="https://img.icons8.com/bubbles/50/000000/facebook.png"/>
-</a>
-
-
+<a href="mailto:aswin2001barath@gmail.com" target="_blank">![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/aswin-barath/" target="_blank">![Linkedin profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+&nbsp;
 <a href="https://stackoverflow.com/users/13064312/aswin-barath?tab=profile" target="_blank">![Stack Overflow profile](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
+&nbsp;
+<a href="https://twitter.com/AswinBarath2" target="_blank">![Twitter profile](ttps://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+&nbsp;
+<a href="https://www.instagram.com/aswin_barath_/" target="_blank">![Instagram profile](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100011683902531e" target="_blank">![Facebook profile](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
+&nbsp;
+
 
 
 ---
