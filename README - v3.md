@@ -97,6 +97,7 @@
 - [Functional programming in python](https://dev.to/aswin2001barath/functional-programming-in-python-42fi)
 <!-- BLOG-POST-LIST:END -->
 
+<br />
 
 ### 📫 Reach out to me:
 
