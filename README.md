@@ -1,33 +1,9 @@
-<h1 align="center"> Hi there, I'm Aswin Barath 👋</h1>
-
-
-
-<h2 align="center"> 👨‍🎓Budding Software Engineer👨‍🎓 </h2>
-
-
-
-<h3 align="center"> 🖥️📲Web Developer  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🐍💻Python Developer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ✍📕Technical blogger </h3>
-
-## Technical Skills
-
-### Languages:
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-&nbsp;
-
+# 👨‍💻 About Me
+- 👨‍💻 I'm an aspiring Software Engineer specializing in web development. 
+- 🚀 I'm proficient at diverse technical roles such as
+## Web developer (full-stack)
 
 ### Libraries/Frameworks:
-
-#### Web Development
 
 ![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 &nbsp;
@@ -75,65 +51,39 @@
 &nbsp;
 ![Google cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 &nbsp;
-![Arduino]()
+
+
+
+- ⚡ I'm a polyglot programmer in diverse languages such as 
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 &nbsp;
 
-### Operating System
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-&nbsp;
 
 
 - 🌱 I'm currently learning
     - ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
     - ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-- ⚡ I'm building 
-    - Full-stack JavaScript projects using
-      - ✨ React.js, Redux.js
-      - ✨ Node.js, Express.js
-      - ✨ PostgreSQL
-    - Python projects on
-      - ✨ Scripting, Web scraping,
-      - ✨ Web development, Automation
-      - ✨ Machine Learning/Data Science
-- 🔭 I’m working on [python blog series](https://dev.to/aswin2001barath/series/10416)
-- 💬 Ask me about
-    - Programming in Python, JavaScript, TypeScript, Java, C/C++
-    - Web development
-    - Data Structures and Algorithms
-    - Machine Learning 
-- 👯 I’m looking forward to collaborate with Full-stack projects
-- 📫 How to reach me:
 
-<a href="mailto:aswin2001barath@gmail.com">
-  <img align="left" alt="ashwin's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
-</a>
 
-<a href="https://www.linkedin.com/in/aswin-barath/">
-  <img align="left" alt="ashwin's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
-</a>
 
-<a href="https://twitter.com/AswinBarath2">
-  <img align="left" alt="ashwin's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
-</a>
+- ✍ I'm a Technical blogger who has received more than 10,000+ reads from various platforms like 
 
-<a href="https://www.instagram.com/aswin_barath_/">
-  <img align="left" alt="ashwin's Instagram" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>
-</a>
 
-<a href="https://www.facebook.com/profile.php?id=100011683902531">
-  <img align="left" alt="ashwin's Facebook" src="https://img.icons8.com/bubbles/50/000000/facebook.png"/>
-</a>
+<a href="https://dev.to/aswin2001barath" target="_blank">![Dev Profile](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
 
-<a href="https://stackoverflow.com/users/13064312/aswin-barath?tab=profile">![Stack Overflow profile](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
-
-<a href="https://dev.to/aswin2001barath">![Dev Profile](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
-
-<a href="https://medium.com/@aswin2001barath">![Medium Profile](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
-
-<br>
+<a href="https://medium.com/@aswin2001barath" target="_blank">![Medium Profile](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -143,6 +93,32 @@
 - [Lambda expressions in python](https://dev.to/aswin2001barath/lambda-expressions-in-python-5ffg)
 - [Functional programming in python](https://dev.to/aswin2001barath/functional-programming-in-python-42fi)
 <!-- BLOG-POST-LIST:END -->
+
+
+- 📫 Reach out to me:
+
+<a href="mailto:aswin2001barath@gmail.com" target="_blank">
+  <img align="left" alt="ashwin's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aswin-barath/" target="_blank">
+  <img align="left" alt="ashwin's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
+</a>
+
+<a href="https://twitter.com/AswinBarath2" target="_blank">
+  <img align="left" alt="ashwin's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
+</a>
+
+<a href="https://www.instagram.com/aswin_barath_/" target="_blank">
+  <img align="left" alt="ashwin's Instagram" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100011683902531" target="_blank">
+  <img align="left" alt="ashwin's Facebook" src="https://img.icons8.com/bubbles/50/000000/facebook.png"/>
+</a>
+
+
+<a href="https://stackoverflow.com/users/13064312/aswin-barath?tab=profile" target="_blank">![Stack Overflow profile](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
 
 
 ---
