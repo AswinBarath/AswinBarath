@@ -137,11 +137,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Accessing Firebase services](https://dev.to/aswin2001barath/accessing-firebase-services-4mn9)
 - [Firebase core services](https://dev.to/aswin2001barath/firebase-core-services-4hkl)
 - [What is Firebase?](https://dev.to/aswin2001barath/what-is-firebase-3f35)
 - [Hacktoberfest 2020 challenge completed!](https://dev.to/aswin2001barath/hacktoberfest-2020-challenge-completed-31c2)
 - [Lambda expressions in python](https://dev.to/aswin2001barath/lambda-expressions-in-python-5ffg)
-- [Functional programming in python](https://dev.to/aswin2001barath/functional-programming-in-python-42fi)
 <!-- BLOG-POST-LIST:END -->
 
 
