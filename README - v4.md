@@ -128,3 +128,52 @@
 </details>
 
 ---
+
+<!-- Shrinked stats code:
+
+<details>
+  <summary>📊&nbsp;&nbsp;<b>Github stats</summary>
+  <br/>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img align="left" alt="AswinBarath's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AswinBarath&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img align="right" alt="AswinBarath's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinBarath&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb&hide=Jupyter%20Notebook,html,css,scss,pug,ruby,php,shell" height="192px"/></a>
+</p>
+
+
+
+</details>
+
+<details>
+  <summary>🔥&nbsp;&nbsp;<b>GitHub Contributions Streak</summary>
+  <br/>
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AswinBarath&theme=dark)](https://git.io/streak-stats)
+
+</details>
+
+<details>
+  <summary>📈&nbsp;&nbsp;<b>Language stats</b></summary>
+  <br/>
+  <a href='https://profile.codersrank.io/user/aswinbarath/'>
+  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=aswinbarath&padding=30&skills=javascript,json,css,html,java,python'>
+  </a>
+</details>
+
+
+<details>
+  <summary>📕&nbsp;&nbsp;<b>Latest Blog Posts</b></summary>
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- - [Firebase core services](https://dev.to/aswin2001barath/firebase-core-services-4hkl)
+- [What is Firebase?](https://dev.to/aswin2001barath/what-is-firebase-3f35)
+- [Hacktoberfest 2020 challenge completed!](https://dev.to/aswin2001barath/hacktoberfest-2020-challenge-completed-31c2)
+- [Lambda expressions in python](https://dev.to/aswin2001barath/lambda-expressions-in-python-5ffg)
+- [Functional programming in python](https://dev.to/aswin2001barath/functional-programming-in-python-42fi)
+ -->
+
+<!-- BLOG-POST-LIST:END -->
+
+<!--
+</details>
+ -->
