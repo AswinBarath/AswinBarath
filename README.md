@@ -11,11 +11,9 @@
 
 <a href="https://www.linkedin.com/in/aswin-barath/" target="_blank">![Linkedin profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 &nbsp;
-<a href="mailto:aswin2001barath@gmail.com" target="_blank">![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://medium.com/@aswin2001barath" target="_blank">![Medium Profile](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 &nbsp;
 <a href="https://twitter.com/AswinBarath2" target="_blank">![Twitter profile](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
-&nbsp;
-<a href="https://medium.com/@aswin2001barath" target="_blank">![Medium Profile](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 &nbsp;
 <a href="https://stackoverflow.com/users/13064312/aswin-barath?tab=profile" target="_blank">![Stack Overflow profile](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
 &nbsp;
