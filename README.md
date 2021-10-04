@@ -96,20 +96,17 @@
 ## 📊 GitHub Stats
 
 
-<p align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img alt="AswinBarath's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AswinBarath&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="192px"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img alt="AswinBarath's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinBarath&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb&hide=Jupyter%20Notebook,html,css,scss,pug,ruby,php,shell" height="192px"/>
-  </a>
+</a>
 
+<p align=center>
   <a href="https://git.io/streak-stats" title="Go to Source">
     <img alt="AswinBarath's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AswinBarath&theme=react&border=61dafb" height="192px"/>
   </a>
-
-<!-- <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> -->
-
 </p>
 
 ---
