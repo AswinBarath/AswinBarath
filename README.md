@@ -9,19 +9,26 @@
 - 👯 I’m looking for tech enthusiasts who would like to join my [community](https://community.codecademy.com/jain-university-ju/)
 - 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/aswin-barath/" target="_blank">![Linkedin profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/AswinBarath" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AswinBarath" height="30" width="40" /></a>
 &nbsp;
-<a href="https://medium.com/@aswin2001barath" target="_blank">![Medium Profile](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/aswin-barath/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
 &nbsp;
-<a href="https://twitter.com/AswinBarath2" target="_blank">![Twitter profile](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+<a href="https://twitter.com/AswinBarath2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AswinBarath2" height="30" width="40" /></a>
 &nbsp;
-<a href="https://stackoverflow.com/users/13064312/aswin-barath?tab=profile" target="_blank">![Stack Overflow profile](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
+<a href="https://leetcode.com/aswin26barath/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aswin26barath" height="30" width="40" /></a>
 &nbsp;
-<a href="https://dev.to/aswin2001barath" target="_blank">![Dev Profile](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
+<a href="https://stackoverflow.com/users/13064312/aswin-barath?tab=profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13064312" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.instagram.com/aswin_barath_/" target="_blank">![Instagram profile](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="https://www.hackerrank.com/AswinBarath2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AswinBarath2" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.facebook.com/profile.php?id=100011683902531e" target="_blank">![Facebook profile](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
+<a href="https://medium.com/@aswin2001barath" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aswin2001barath" height="30" width="40" /></a>
+&nbsp;
+<a href="https://dev.to/aswin2001barath" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aswin2001barath" height="30" width="40" /></a>
+&nbsp;
+<a href="https://www.instagram.com/aswin_barath_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
+&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100011683902531e" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
 &nbsp;
 
 ---
