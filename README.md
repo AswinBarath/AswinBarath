@@ -24,7 +24,7 @@ That's why I like to make things that make a difference.
 
 ### Talking about Personal Stuffs:
 
-- 👨‍🎓 I'm an **Senior Software Engineering Student**
+- 👨‍🎓 I'm a **Senior Software Engineering Student**
 - 🔭 I’m currently working on [JU Query](https://github.com/AswinBarath/ju-query) platform
 - 👨‍🏫 I'm the **Community Leader** at [Codecademy JU](https://community.codecademy.com/jain-university-ju/)
 - 💬 Ask me about anything, I am happy to help
