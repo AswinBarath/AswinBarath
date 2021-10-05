@@ -115,10 +115,8 @@ That's why I like to make things that make a difference.
 ## 📊 Stats
 
 
-<details>
-  <summary>
-    &nbsp;&nbsp;📊 <b>This Week I Spent My Time On</b>
-  </summary>
+📊 <b>This Week I Spent My Time On</b>
+
 <!--START_SECTION:waka-->
 ```text
 Markdown     4 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   39.43 % 
@@ -128,7 +126,6 @@ Java         1 hr 3 mins     ██▒░░░░░░░░░░░░░░
 CSS          53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
 ```
 <!--END_SECTION:waka-->
-</details>
 
 
 <details>
