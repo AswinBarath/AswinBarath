@@ -19,7 +19,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 
 ### Talking about Personal Stuffs:
@@ -50,14 +50,6 @@ That's why I like to make things that make a difference.
 &nbsp;
 <a href="https://dev.to/aswin2001barath" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aswin2001barath" height="30" width="40" /></a>
 &nbsp;
-
----
-
-## 🔥 Streak
-
-<p>
-<img src="https://activity-graph.herokuapp.com/graph?username=AswinBarath&theme=react-dark&bg_color=20232a&hide_border=true" width=100%" />
-</p>
 
 ---
 
@@ -138,6 +130,16 @@ CSS          53 mins         ██░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 </details>
 
+
+<details>
+  <summary>&nbsp;&nbsp;<b>🔥 GitHub Contributions Streak</summary>
+  <br/>
+
+  <p>
+  <img src="https://activity-graph.herokuapp.com/graph?username=AswinBarath&theme=react-dark&bg_color=20232a&hide_border=true" width=100%" />
+  </p>
+
+</details>
 
 
 <details>

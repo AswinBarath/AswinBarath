@@ -147,7 +147,7 @@
   <summary>🔥&nbsp;&nbsp;<b>GitHub Contributions Streak</summary>
   <br/>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AswinBarath&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AswinBarath&theme=react-dark&bg_color=20232a&hide_border=true)](https://git.io/streak-stats)
 
 </details>
 
