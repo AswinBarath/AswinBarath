@@ -163,11 +163,11 @@ SCSS         34 mins         █▒░░░░░░░░░░░░░░░
 ## 📕Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning in Public and Getting Opportunities](https://dev.to/aswin2001barath/learning-in-public-and-getting-opportunities-4i92)
 - [Introduction to programming](https://dev.to/aswin2001barath/introduction-to-programming-31od)
 - [Accessing Firebase services](https://dev.to/aswin2001barath/accessing-firebase-services-4mn9)
 - [Firebase core services](https://dev.to/aswin2001barath/firebase-core-services-4hkl)
 - [What is Firebase?](https://dev.to/aswin2001barath/what-is-firebase-3f35)
-- [Hacktoberfest 2020 challenge completed!](https://dev.to/aswin2001barath/hacktoberfest-2020-challenge-completed-31c2)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
