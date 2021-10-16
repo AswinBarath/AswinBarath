@@ -119,10 +119,10 @@ That's why I like to make things that make a difference.
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     3 hrs 29 mins   ███████████░░░░░░░░░░░░░░   44.37 % 
-JavaScript   3 hrs 3 mins    █████████▓░░░░░░░░░░░░░░░   38.85 % 
-Java         59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-JSX          18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+JavaScript   2 hrs 49 mins   ██████████▓░░░░░░░░░░░░░░   42.39 % 
+Markdown     2 hrs 47 mins   ██████████▒░░░░░░░░░░░░░░   41.98 % 
+Java         59 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 <!--END_SECTION:waka-->
 
