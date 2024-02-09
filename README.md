@@ -15,14 +15,14 @@
 
 I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
+As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
 
 That's why I like to make things that make a difference.
 
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 
-### Talking about Personal Stuffs:
+### Talking about Personal Stuff:
 
 - 👨‍🎓 I'm a **Senior Software Engineering Student**
 - 🔭 I’m currently working on [JU Query](https://github.com/AswinBarath/ju-query) platform
@@ -46,14 +46,14 @@ That's why I like to make things that make a difference.
 &nbsp;
 <a href="https://www.hackerrank.com/AswinBarath2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AswinBarath2" height="30" width="40" /></a>
 &nbsp;
-<a href="https://medium.com/@aswin2001barath" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aswin2001barath" height="30" width="40" /></a>
+<a href="https://medium.com/@aswinbarath" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aswin2001barath" height="30" width="40" /></a>
 &nbsp;
-<a href="https://dev.to/aswin2001barath" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aswin2001barath" height="30" width="40" /></a>
+<a href="https://dev.to/aswinbarath" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aswin2001barath" height="30" width="40" /></a>
 &nbsp;
 
 ---
 
-## 🛠️ My favorite tools
+## 🛠️ My Favourite tools
 
 ### 👨‍💻 Programming languages
 
@@ -85,7 +85,7 @@ That's why I like to make things that make a difference.
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 </p>
 
-### 🗄️ Databases and cloud hosting
+### 🗄️ Databases and Cloud Hosting
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -165,15 +165,15 @@ XML          2 mins          ░░░░░░░░░░░░░░░░░
 
 - [Technology Keeps Changing with Noonies Nominee Aswin Barath](https://hackernoon.com/the-good-thing-and-the-bad-thing-about-technology-with-noonies-nominee-aswin-barath)
 - [Coding 101: Programming Language Building Blocks](https://hackernoon.com/coding-101-programming-language-building-blocks-1w513uwe)
-- [Python Programming: A Beginner’s Guide](https://dev.to/aswin2001barath/python-programming-a-beginner-s-guide-k8n)
+- [Python Programming: A Beginner’s Guide](https://dev.to/aswinbarath/python-programming-a-beginner-s-guide-k8n)
 - [Become a Job Ready Programmer](https://medium.com/techsoftware/become-a-job-ready-programmer-1e5a8cdd1351)
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning in Public and Getting Opportunities](https://dev.to/aswin2001barath/learning-in-public-and-getting-opportunities-4i92)
-- [Introduction to programming](https://dev.to/aswin2001barath/introduction-to-programming-31od)
-- [Accessing Firebase services](https://dev.to/aswin2001barath/accessing-firebase-services-4mn9)
-- [Firebase core services](https://dev.to/aswin2001barath/firebase-core-services-4hkl)
-- [What is Firebase?](https://dev.to/aswin2001barath/what-is-firebase-3f35)
+- [Learning in Public and Getting Opportunities](https://dev.to/aswinbarath/learning-in-public-and-getting-opportunities-4i92)
+- [Introduction to programming](https://dev.to/aswinbarath/introduction-to-programming-31od)
+- [Accessing Firebase services](https://dev.to/aswinbarath/accessing-firebase-services-4mn9)
+- [Firebase core services](https://dev.to/aswinbarath/firebase-core-services-4hkl)
+- [What is Firebase?](https://dev.to/aswinbarath/what-is-firebase-3f35)
 <!-- BLOG-POST-LIST:END -->
 
